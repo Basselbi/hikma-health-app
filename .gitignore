@@ -61,3 +61,8 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+/.expo
+package-lock.json
+yarn.lock
+.gitignore
+yarn.lock
