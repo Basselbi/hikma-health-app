@@ -5,7 +5,7 @@ import {
 import { v4 as uuid } from 'uuid';
 import { database } from "../storage/Database";
 import styles from './Style';
-import DatePicker from 'react-native-datepicker'
+import DatePicker from '@react-native-community/datetimepicker';
 import { LocalizedStrings } from '../enums/LocalizedStrings';
 import { EventTypes } from '../enums/EventTypes';
 import Header from './shared/Header';

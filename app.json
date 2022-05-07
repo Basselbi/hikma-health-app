@@ -1,4 +1,11 @@
 {
-  "name": "hikma_health_app",
-  "displayName": "hikma_health_app"
+  "expo": {
+    "name": "Hikmaapp",
+    "icon": "",
+    "version": "1.0.0",
+    "slug": "hikma_health_app",
+    "sdkVersion": "44.0.0",
+    "entryPoint": ".vscode\\exponentIndex.js"
+  },
+  "name": "hikma_health_app"
 }
